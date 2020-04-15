@@ -12,11 +12,19 @@ I will spent **2 hours** on average each day and make the records here. During t
 2. Complete at lease one item each day.
 3. If there is not enough time for a new item, I should try to reproduce what I thought.
 
-Start from: 04/13/2020
+Start from: 04/14/2020
 
 ## Project 2: Skateboarding
 
 1. Watch YouTube videos
 2. Play and practice outside except for rainy days.
 
-Start from: 04/13/2020
+Start from: 04/14/2020
+
+## Wishlist
+
+1. Learn about perfume.
+2. Learn about outfit.
+3. How to talk to people/mgr/coworkers.
+4. How to summarize and write down points during a talk.
+5. Photography.
