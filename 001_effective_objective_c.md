@@ -9,3 +9,9 @@
 Read item 6, 7.
 
 Total time: 1h.
+
+## Day 2 - 04/15/2020
+
+Item 8.
+
+Total time = 1h + 1h = 2h.

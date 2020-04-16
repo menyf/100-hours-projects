@@ -6,6 +6,10 @@ This repository is designed to make some records of my progress. All projects sh
 
 I will spent **2 hours** on average each day and make the records here. During these time, I should switch my phone to airplane mode and try to meet the flow. For all the projects, there should be clear goal.
 
+## Project 0: 100 push-up challenge
+
+Do 100 push-ups each day along with this project. 
+
 ## Project 1: Read *Effective Objective C 2.0*
 
 1. Review what I learnt in the previous day.
