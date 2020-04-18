@@ -14,3 +14,9 @@ Total time: 1h20min.
 Play alone in the parking lot of apartment for 1h.
 
 Total time: 1h20min + 1h = 2h20min.
+
+## Day 3 - 04/17/2020
+
+Play alone in the parking lot of apartment for 1h10min.
+
+Total time: 2h20min + 1h10min = 3h30min.

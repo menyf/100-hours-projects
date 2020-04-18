@@ -23,3 +23,9 @@ Item 9, 10.
 Total time = 2h + 1h = 3h. 
 
 Note: this study happens during my work time, so I have stronger motivation on this.
+
+## Day 4 - 04/17/2020
+
+Item 11, 12, 13.
+
+Total time = 3h + 1h = 4h. 
