@@ -35,3 +35,9 @@ Total time = 3h + 1h = 4h.
 Item 15, 16.
 
 Total time = 4h + 1h = 5h. 
+
+## Day 6 - 04/19/2020
+
+Item 17, 18, 19, 20.
+
+Total time = 5h + 1h = 6h. 
