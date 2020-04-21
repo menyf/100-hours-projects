@@ -41,3 +41,9 @@ Total time = 4h + 1h = 5h.
 Item 17, 18, 19, 20.
 
 Total time = 5h + 1h = 6h. 
+
+## Day7 - 04/20/2020
+
+Item 21, 22.
+
+Total time = 6h + 1h = 7h. 
