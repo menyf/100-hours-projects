@@ -32,3 +32,9 @@ Total time = 3h30min + 1h = 4h30min.
 Play alone in the parking lot of apartment for 1h.
 
 Total time = 4h30min + 1h = 5h30min. 
+
+## Day 6 - 04/21/2020
+
+Play alone in the parking lot of apartment for 1h. I can move very fast even with turn now.
+
+Total time = 5h30min + 1h = 6h30min. 

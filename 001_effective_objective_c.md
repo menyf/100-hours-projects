@@ -47,3 +47,9 @@ Total time = 5h + 1h = 6h.
 Item 21, 22.
 
 Total time = 6h + 1h = 7h. 
+
+## Day8 - 04/21/2020
+
+Item 23, 24.
+
+Total time = 7h + 1h = 8h. 
