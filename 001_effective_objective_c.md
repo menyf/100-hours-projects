@@ -50,6 +50,12 @@ Total time = 6h + 1h = 7h.
 
 ## Day8 - 04/21/2020
 
-Item 23, 24.
+Item 23, 24, 25.
 
 Total time = 7h + 1h = 8h. 
+
+## Day9 - 04/22/2020
+
+Item 26, 27. 
+
+Total time = 8h + 1h = 9h. 
