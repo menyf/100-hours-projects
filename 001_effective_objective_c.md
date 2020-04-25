@@ -59,3 +59,15 @@ Total time = 7h + 1h = 8h.
 Item 26, 27. 
 
 Total time = 8h + 1h = 9h. 
+
+## Day10 - 04/23/2020
+
+Item 28, 29. 
+
+Total time = 9h + 1h = 10h. 
+
+## Day11 - 04/24/2020
+
+Item 30. 
+
+Total time = 10h + 1h = 11h. 

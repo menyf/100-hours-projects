@@ -44,3 +44,9 @@ Total time = 5h30min + 1h = 6h30min.
 Play alone in the parking lot of apartment for 1h. Goofy is easy for me but regular is so hard to stay on the skateboard.
 
 Total time = 6h30min + 1h = 7h30min. 
+
+## Day 8 - 04/23/2020
+
+Play alone in the parking lot of apartment for 1h. I can do a little of regular.
+
+Total time = 7h30min + 1h = 8h30min. 
