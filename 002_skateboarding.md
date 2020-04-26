@@ -50,3 +50,11 @@ Total time = 6h30min + 1h = 7h30min.
 Play alone in the parking lot of apartment for 1h. I can do a little of regular.
 
 Total time = 7h30min + 1h = 8h30min. 
+
+## Day 9 - 04/25/2020
+
+I find it tired to keep doing this, but still make it today.
+
+Play alone in the parking lot of apartment for 1h. 
+
+Total time = 8h30min + 1h = 9h30min. 
