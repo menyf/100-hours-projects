@@ -77,3 +77,9 @@ Total time = 10h + 1h = 11h.
 Item 31, 32, 33. 
 
 Total time = 11h + 1h = 12h. 
+
+## Day13 - 04/26/2020
+
+Item 34, 35, 36. 
+
+Total time = 12h + 1h = 13h. 

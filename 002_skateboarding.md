@@ -58,3 +58,9 @@ I find it tired to keep doing this, but still make it today.
 Play alone in the parking lot of apartment for 1h. 
 
 Total time = 8h30min + 1h = 9h30min. 
+
+## Day 10 - 04/25/2020
+
+Play alone in the parking lot of apartment for 1h. I can do a little tic-tac of regular.
+
+Total time = 8h30min + 1h = 9h30min. 
