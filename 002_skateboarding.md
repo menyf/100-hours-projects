@@ -64,3 +64,9 @@ Total time = 8h30min + 1h = 9h30min.
 Play alone in the parking lot of apartment for 1h. I can do a little tic-tac of regular.
 
 Total time = 8h30min + 1h = 9h30min. 
+
+## Day 11 - 04/27/2020
+
+Play alone in the parking lot of apartment for 1h. I can do tic-tac in both styles without stepping down. https://v.douyin.com/wQ85Jh/
+
+Total time = 8h30min + 1h = 9h30min. 
