@@ -95,3 +95,9 @@ Total time = 13h + 1h = 14h.
 Item 40, 41, 42, 43. 
 
 Total time = 14h + 1h = 15h. 
+
+## Day16 - 04/29/2020
+
+Item 44, 45, 46
+
+Total time = 15h + 1h = 16h. 
