@@ -76,3 +76,9 @@ Total time = 10h30min + 1h = 11h30min.
 Play alone in the parking lot of apartment for 1h.
 
 Total time = 11h30min + 1h = 12h30min. 
+
+## Day 12 - 04/28/2020
+
+Play alone in the parking lot of apartment for 1h. Keeping practicing regular style.
+
+Total time = 12h30min + 1h = 13h30min. 
