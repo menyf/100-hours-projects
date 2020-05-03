@@ -106,4 +106,10 @@ Total time = 15h + 1h = 16h.
 
 Item 47, 48, 49, 50
 
-Total time = 15h + 1h = 16h. 
+Total time = 16h + 1h = 17h. 
+
+## Day18 - 05/02/2020
+
+Item 51, 52
+
+Total time = 17h + 40min = 17h40min. 

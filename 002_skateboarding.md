@@ -71,14 +71,20 @@ Play alone in the parking lot of apartment for 1h. I can do tic-tac in both styl
 
 Total time = 10h30min + 1h = 11h30min. 
 
-## Day 12 - 04/27/2020
+## Day 12 - 04/28/2020
 
 Play alone in the parking lot of apartment for 1h.
 
 Total time = 11h30min + 1h = 12h30min. 
 
-## Day 12 - 04/28/2020
+## Day 13 - 04/29/2020
 
 Play alone in the parking lot of apartment for 1h. Keeping practicing regular style.
 
 Total time = 12h30min + 1h = 13h30min. 
+
+## Day 14 - 04//2020
+
+Play alone in the parking lot of apartment for 1h. Trying to learn how to stop but fell on ground get little injured. 
+
+Total time = 12h30min + 50h = 14h20min. 

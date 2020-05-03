@@ -16,7 +16,8 @@ Do 100 push-ups each day along with this project.
 2. Complete at lease one item each day.
 3. If there is not enough time for a new item, I should try to reproduce what I thought.
 
-Start from: 04/14/2020
+Duration: 04/14/2020 - 05/02/2020
+Actual time spent: ~20h
 
 ## Project 2: Skateboarding
 
@@ -24,6 +25,10 @@ Start from: 04/14/2020
 2. Play and practice outside except for rainy days.
 
 Start from: 04/14/2020
+
+## Project 3: Read ComponentKit Document
+
+Have a general understanding on ComponentKit. https://componentkit.org
 
 ## Wishlist
 
