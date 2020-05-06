@@ -83,8 +83,20 @@ Play alone in the parking lot of apartment for 1h. Keeping practicing regular st
 
 Total time = 12h30min + 1h = 13h30min. 
 
-## Day 14 - 04//2020
+## Day 14 - 05/02/2020
 
 Play alone in the parking lot of apartment for 1h. Trying to learn how to stop but fell on ground get little injured. 
 
-Total time = 12h30min + 50h = 14h20min. 
+Total time = 13h30min + 50min = 14h20min. 
+
+## Day 15 - 05/04/2020
+
+Play alone in the parking lot of apartment for 1h. Starting with throwing out the board. https://v.douyin.com/K47h4J/
+
+Total time = 14h30min + 1h = 15h20min. 
+
+## Day 16 - 05/05/2020
+
+Play alone in the parking lot of apartment for 1h. 
+
+Total time = 15h20min + 50min = 16h10min. 
