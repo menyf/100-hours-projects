@@ -100,3 +100,15 @@ Total time = 14h30min + 1h = 15h20min.
 Play alone in the parking lot of apartment for 1h. 
 
 Total time = 15h20min + 50min = 16h10min. 
+
+## Day 17 - 05/06/2020
+
+Play alone in the parking lot of apartment for 1h. Got injured again.
+
+Total time = 16h10min + 30min = 16h40min.
+
+## Day 18 - 05/08/2020
+
+Play alone in the parking lot of apartment for 1h. Learning how to stop and catch the board instantly.
+
+Total time = 16h40min + 1h10min = 17h50min
