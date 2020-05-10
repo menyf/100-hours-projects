@@ -112,3 +112,9 @@ Total time = 16h10min + 30min = 16h40min.
 Play alone in the parking lot of apartment for 1h. Learning how to stop and catch the board instantly.
 
 Total time = 16h40min + 1h10min = 17h50min
+
+## Day 19 - 05/09/2020
+
+Play alone in the parking lot of apartment for 1h. Broke my thumbnail.
+
+Total time = 17h50min + 1h = 18h50min
