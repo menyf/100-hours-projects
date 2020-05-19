@@ -136,3 +136,15 @@ Total time = 19h50min + 1h = 20h50min
 Play alone in the parking lot of apartment for 1h. Since making no progress, I find it even hard to keep it.
 
 Total time = 20h50min + 1h = 21h50min
+
+## Day 22 - 05/17/2020
+
+Play alone in the parking lot of apartment for 40min. 
+
+Total time = 21h50min + 40min = 22h30min
+
+## Day 23 - 05/18/2020
+
+Play alone in the parking lot of apartment for 1h. 
+
+Total time = 22h30min + 1h = 23h30min
