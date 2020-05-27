@@ -145,6 +145,12 @@ Total time = 21h50min + 40min = 22h30min
 
 ## Day 23 - 05/18/2020
 
-Play alone in the parking lot of apartment for 1h. 
+Play alone in the parking lot of apartment for 1h. I can catch the board now. https://v.douyin.com/J1oThJA/
 
 Total time = 22h30min + 1h = 23h30min
+
+## Day 24 - 05/26/2020
+
+Play alone in the parking lot of apartment for 1h.
+
+Total time = 23h30min + 1h = 24h30min
